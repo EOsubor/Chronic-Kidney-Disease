@@ -1,4 +1,4 @@
-# ## Exploratory Data Analysis/Prediction of Chronic Kidney Disease.
+### Exploratory Data Analysis/Prediction of Chronic Kidney Disease.
 
 Machine Learning - Logistic Regression
 
